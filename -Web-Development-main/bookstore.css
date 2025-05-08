@@ -1,0 +1,12 @@
+bookstore{
+	background-color:pink;
+	color:white;
+	font-size:18px;
+}
+title,author,publisher,edition,price{
+	display:table-row;
+}
+title:hover{
+	color:yellow;
+	font-size:20px;
+}
