@@ -1,2 +1,1 @@
-# WEBDEV
-Web-development weekly assignments
+This repository Contians College submission files
